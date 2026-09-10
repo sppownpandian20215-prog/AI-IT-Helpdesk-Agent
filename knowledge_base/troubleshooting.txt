@@ -1,0 +1,69 @@
+CATEGORY: Wi-Fi and Internet Issues
+Wi-Fi connected but no internet access, slow internet, or frequent disconnects.
+Step 1: Restart your Wi-Fi router and modem. Unplug for 30 seconds, then plug back in and wait 2 minutes.
+Step 2: On your device, turn Wi-Fi off and on again, or toggle Airplane Mode for 10 seconds.
+Step 3: Forget the Wi-Fi network on your device and reconnect using the correct password.
+Step 4: Move closer to the router to rule out weak signal strength.
+Step 5: Check if other devices on the same network can access the internet. If none can, the issue is likely with the router or the internet service provider.
+Step 6: Run a network diagnostic or use the network status tool to check connectivity.
+Step 7: If the problem continues after these steps, contact your Internet Service Provider or escalate to IT support.
+
+CATEGORY: Password and Login Issues
+Forgotten password, account locked, or unable to sign in.
+Step 1: Double-check that Caps Lock is off and you are typing the correct username.
+Step 2: Use the "Forgot Password" link on the login page to reset your password via email or SMS.
+Step 3: Make sure your account has not been locked due to multiple failed login attempts; wait 15 minutes and try again.
+Step 4: Clear your browser cache and cookies, or try logging in from a different browser.
+Step 5: Confirm that Caps Lock, regional keyboard layout, or autocomplete is not entering an incorrect password.
+Step 6: If you use multi-factor authentication (MFA), ensure your authenticator app or phone has the correct time synced.
+Step 7: If none of the above works, your account may need a manual reset. Escalate to IT support with your employee/user ID.
+
+CATEGORY: Printer Issues
+Printer not printing, offline, or producing poor quality prints.
+Step 1: Check that the printer is powered on and all cables (USB or network) are properly connected.
+Step 2: Verify the printer is not showing "Offline" status in your operating system's printer settings; set it back online if needed.
+Step 3: Check for paper jams, low ink/toner, or open covers.
+Step 4: Clear the print queue of any stuck print jobs and try printing again.
+Step 5: Restart both the printer and your computer.
+Step 6: Reinstall or update the printer driver from the manufacturer's website.
+Step 7: If the printer still does not respond, run the system status tool to check for driver or spooler issues, and escalate to IT support if unresolved.
+
+CATEGORY: Computer Performance Issues
+Slow computer, freezing, or high resource usage.
+Step 1: Restart your computer to clear temporary memory issues.
+Step 2: Close unused applications and browser tabs that may be consuming CPU or RAM.
+Step 3: Check available storage space; free up space if the hard drive is more than 90% full.
+Step 4: Run a malware/antivirus scan to rule out malicious software slowing down the system.
+Step 5: Check for and install pending operating system updates.
+Step 6: Disable unnecessary startup programs to speed up boot time.
+Step 7: Use the system status tool to check CPU, memory, and storage health. If performance issues persist, escalate to IT support for hardware evaluation.
+
+CATEGORY: Software Installation Issues
+Software fails to install, install is stuck, or software crashes after installation.
+Step 1: Confirm your system meets the minimum requirements (OS version, storage space, RAM) for the software.
+Step 2: Ensure you have administrator/installation permissions on the computer.
+Step 3: Temporarily disable antivirus software, which can sometimes block installers, then try again.
+Step 4: Download the installer again in case the original file was corrupted.
+Step 5: Restart your computer and attempt the installation again.
+Step 6: Check available disk space; free up space if storage is low.
+Step 7: If installation continues to fail, note the exact error message and escalate to IT support for assistance.
+
+CATEGORY: System Errors
+Blue screen errors, application crashes, or unexpected error messages.
+Step 1: Note down the exact error message or error code displayed.
+Step 2: Restart the computer, as many temporary system errors resolve after a reboot.
+Step 3: Check for and install any pending operating system or driver updates.
+Step 4: Run the system status tool to check overall system health.
+Step 5: If the error occurs in a specific application, try reinstalling or updating that application.
+Step 6: Back up important files in case the issue is related to failing hardware.
+Step 7: If the error is recurring or system-critical, escalate to IT support immediately with the error code and steps to reproduce it.
+
+CATEGORY: IT Support Escalation
+When to escalate an issue and how the support ticket process works.
+Step 1: Escalate to IT support if the issue persists after following the relevant troubleshooting steps above.
+Step 2: Escalate immediately for issues involving data loss, security concerns, or hardware damage.
+Step 3: When escalating, provide a clear description of the issue, the troubleshooting steps already tried, and any error messages or codes.
+Step 4: A support ticket will be created with a unique ticket ID for tracking purposes.
+Step 5: Keep the ticket ID for future reference when following up on the issue.
+Step 6: Response times may vary depending on the severity of the issue; critical issues are typically prioritized.
+Step 7: This helpdesk assistant can simulate creating a support ticket, but real ticket handling and resolution depends on your organization's actual IT support team.
